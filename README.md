@@ -7,3 +7,7 @@ gcc -std=c99 smallsh.c -o smallsh
 
 To execute:
 ./smallsh
+
+
+Known Issues:
+If your path environment variable contains directories which don't exist, the program might crash.

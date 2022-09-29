@@ -8,6 +8,8 @@ gcc -std=c99 smallsh.c -o smallsh
 To execute:
 ./smallsh
 
+How to Use:
+Run commands as you normally would in a terminal. You may exit the program by entering the command 'exit'.
 
 Known Issues:
 If your path environment variable contains directories which don't exist, the program might crash.

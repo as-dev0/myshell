@@ -12,7 +12,7 @@ How to Use:
 Run commands as you normally would in a terminal. You may exit the program by entering the command 'exit'.
 
 Known Issues:  
-If your path environment variable contains directories which don't exist, the program might crash.
+If your PATH environment variable contains directories which don't exist, the program might crash.
 
 Example:  
 ![small](https://user-images.githubusercontent.com/114560165/193472627-89a35b6f-b45d-4498-8097-07a02da6affb.png)

@@ -851,7 +851,7 @@ main()
       if (lastStatus > 1){
 
         // Prints termination signal
-        char stat[20] = ""; empty(stat);
+        char stat[22] = ""; empty(stat);
         strcat(stat,"terminated by signal ");
         char statV[2] = ""; empty(statV);
         sprintf(statV, "%i", lastStatus);

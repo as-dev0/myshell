@@ -1,4 +1,4 @@
-# smallshell
+# myshell
 
 This is a shell program for Linux in which you can run commands. Input and output redirection are supported using the '<' and '>' symbols. Background processes are supported using the '&' symbol. In any command containing the two consecutive characters '$$', the '$$' will be replaced by the pid of the process running the command.
 
